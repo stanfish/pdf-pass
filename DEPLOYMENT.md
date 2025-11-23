@@ -116,7 +116,7 @@ git push origin main
 
 - Check the Netlify build logs for errors
 - Ensure `package.json` has all dependencies listed
-- Verify Node.js version compatibility (use Node 18+)
+- Verify Node.js version compatibility (use Node 20+)
 
 ### Function Timeout
 

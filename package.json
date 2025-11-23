@@ -1,6 +1,7 @@
 {
   "name": "pdf-pass",
   "version": "0.1.0",
+  "description": "A secure, privacy-focused web application for creating password-protecting PDF files.",
   "private": true,
   "scripts": {
     "dev": "next dev --turbo",

@@ -23,7 +23,7 @@ A secure, privacy-focused web application for creating password-protecting PDF f
 
 ### Prerequisites
 
-- Node.js 18+ 
+- Node.js 20+ 
 - npm or yarn
 
 ### Installation
